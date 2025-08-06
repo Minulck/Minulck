@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minulck&show_icons=true&locale=en" alt="minulck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minulck&" alt="minulck" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=minulck&](https://avatars.githubusercontent.com/u/160116388?v=4)" alt="minulck" /></p>
