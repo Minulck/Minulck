@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Education<br>Undergraduate at University of Moratuwa<br><br>Passionate about full-stack development and cloud-native applications<br><br>🎓 Education<br>Undergraduate at University of Moratuwa, studying Computer Science and Engineering<br>Passionate about building efficient, user-friendly systems that solve real-world problems<br><br>💡 Interests<br>Full-stack development and scalable backend architectures<br>Cloud-native apps, PWA development, and automation<br>Technical writing and documentation (system design, UML, implementation reports)
+🎓 Education<br>Undergraduate at University of Moratuwa<br><br>Passionate about full-stack development and cloud-native applications<br><br>🎓 Education<br>Undergraduate at University of Moratuwa, <br>Passionate about building efficient, user-friendly systems that solve real-world problems<br><br>💡 Interests<br>Full-stack development and scalable backend architectures<br>Cloud-native apps, PWA development, and automation<br>Technical writing and documentation (system design, UML, implementation reports)
 
 
 ## 🌐 Socials:
